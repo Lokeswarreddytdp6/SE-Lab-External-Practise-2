@@ -9,6 +9,7 @@ public class App {
         System.out.println("Hello");
         System.out.println("Tadipatri -> <- Banglore");
         System.out.println("Kachiguda is the first pickup point of Volvo 9600s");
+        System.out.println("Shamshabad(ORR ending) is the last pickup point of Volvo 9600s");
     }
 }
 
