@@ -8,6 +8,7 @@ public class App {
         System.out.println("Headoffice : Tadipatri");
         System.out.println("Hello");
         System.out.println("Tadipatri -> <- Banglore");
+        System.out.println("Kachiguda is the first pickup point of Volvo 9600s");
     }
 }
 
